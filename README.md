@@ -2,10 +2,6 @@
 
 This is a simple Tic-Tac-Toe game built with React. Players take turns marking cells on a 3x3 grid, with one player being "X" and the other "O". The game announces a winner when a player aligns three of their symbols in a row, column, or diagonal. It also displays a "Draw" message when all cells are filled without a winner. The board can be reset at any time with the "Restart" button.
 
-## Demo
-
-Try the demo by launching the app locally and playing Tic-Tac-Toe in your browser.
-
 ## Features
 - Interactive Tic-Tac-Toe gameplay
 - Dynamic status display showing the next player or the winner
@@ -24,7 +20,7 @@ Try the demo by launching the app locally and playing Tic-Tac-Toe in your browse
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/milenafbn/tic-tac-toe.git
 
 2. Navigate to the project directory:
    ```bash
